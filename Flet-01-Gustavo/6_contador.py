@@ -65,6 +65,34 @@ def main(page: ft.Page):
         valor_contador = 0
         atualizar_display()
 
+    # Campo para digitar quanto somar/subtrair
+    campo_valor = ft.TextField(
+        label="Valor personalizado",
+        width=120,
+        keyboard_type=ft.KeyboardType.NUMBER,
+        hint_text="Ex: 7"
+    )
+
+    def somar_personalizado(e):
+        nonlocal valor_contador
+        try:
+            valor = int(campo_valor.value)
+            valor_contador += valor
+            atualizar_display()
+        except:
+            info_contador.value = "Digite um valor válido!"
+            page.update()
+
+    def subtrair_personalizado(e):
+        nonlocal valor_contador
+        try:
+            valor = int(campo_valor.value)
+            valor_contador -= valor
+            atualizar_display()
+        except:
+            info_contador.value = "Digite um valor válido!"
+            page.update()
+
     # Botões
     page.add(
         ft.Column(
@@ -88,13 +116,21 @@ def main(page: ft.Page):
                     alignment=ft.MainAxisAlignment.CENTER,
                     spacing=40
                 ),
+                # Novo: linha para valor personalizado
+                ft.Row(
+                    controls=[
+                        campo_valor,
+                        ft.ElevatedButton("+Valor", on_click=somar_personalizado, bgcolor=ft.Colors.BLUE_400, color=ft.Colors.WHITE),
+                        ft.ElevatedButton("-Valor", on_click=subtrair_personalizado, bgcolor=ft.Colors.ORANGE_400, color=ft.Colors.WHITE)
+                    ],
+                    alignment=ft.MainAxisAlignment.CENTER,
+                    spacing=10
+                ),
                 ft.ElevatedButton("🔄 Reset", on_click=resetar, width=240, bgcolor=ft.Colors.PURPLE, color=ft.Colors.WHITE)
             ],
             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
-
             spacing=20
         )
-        
     )
 
 ft.app(target=main)
