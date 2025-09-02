@@ -140,6 +140,7 @@ Contador com botões para incrementar, decrementar, resetar e alterar o valor em
 - O botão "Reset" zera o contador.
 - O texto muda de cor: verde para valores positivos, vermelho para negativos, roxo para zero.
 - Mensagem abaixo indica o estado do contador.
+- Input para valores personalizados.
 
 **Prints:**  
 - Valor zero:  
@@ -148,6 +149,8 @@ Contador com botões para incrementar, decrementar, resetar e alterar o valor em
 <img width="1870" height="815" alt="Captura de tela 2025-09-01 163444" src="https://github.com/user-attachments/assets/0e7cd6e3-cb72-4806-aef8-d2d966277283" />
 - Valor negativo:  
 <img width="1906" height="852" alt="Captura de tela 2025-09-02 095701" src="https://github.com/user-attachments/assets/19ac7256-4880-4c84-a6e0-c177fb27d8d0" />
+- Valor personalizado:
+<img width="1868" height="850" alt="Captura de tela 2025-09-02 103957" src="https://github.com/user-attachments/assets/5beddbd0-5602-4ca7-8369-5a78a1100311" />
 
 ---
 
