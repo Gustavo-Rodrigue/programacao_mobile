@@ -15,7 +15,7 @@ Demonstra como configurar título, alinhamento e adicionar textos com diferentes
 - Ao abrir, mostra um texto grande roxo e mensagens de boas-vindas.
 - Não há interação, serve para apresentar o básico do Flet.
 
-![Print Primeiro App](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/1_primeiro_app.png)
+<img width="1856" height="813" alt="Captura de tela 2025-09-01 162805" src="https://github.com/user-attachments/assets/1ca3c2bf-54ca-4a7d-b840-2c0e800df714" />
 
 ---
 
@@ -35,9 +35,11 @@ Página com dois botões que mudam o texto exibido ao serem clicados.
 
 **Prints:**  
 - Antes do clique:  
-  ![Print Botão Simples - Antes](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/2_botao_simples_antes.png)
-- Após clicar em um dos botões:  
-  ![Print Botão Simples - Depois](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/2_botao_simples_depois.png)
+<img width="1637" height="708" alt="Captura de tela 2025-09-01 162830" src="https://github.com/user-attachments/assets/c8d6b38e-1c95-457a-a4d0-0f2c8747807a" />
+- Após clicar em um dos botões:
+<img width="1815" height="764" alt="Captura de tela 2025-09-01 162836" src="https://github.com/user-attachments/assets/ca0faa82-5eaa-44ee-98a5-0d3a2d339f75" />
+- Após clicar no segundo botão:
+<img width="1762" height="751" alt="Captura de tela 2025-09-01 162841" src="https://github.com/user-attachments/assets/9038dfd8-3a43-484a-bb2b-8d2ef8ea8528" />
 
 ---
 
@@ -57,9 +59,14 @@ Permite ao usuário digitar seu nome e receber uma resposta personalizada.
 
 **Prints:**  
 - Campo vazio:  
-  ![Print Campo de Texto - Erro](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/3_campo_texto_erro.png)
-- Nome válido:  
-  ![Print Campo de Texto - Ok](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/3_campo_texto_ok.png)
+<img width="1839" height="796" alt="Captura de tela 2025-09-01 162912" src="https://github.com/user-attachments/assets/dab6e98a-f6c4-4c26-b41f-dd22e7c9e6a2" />
+- Nome inválido:  
+<img width="1871" height="812" alt="Captura de tela 2025-09-01 162919" src="https://github.com/user-attachments/assets/7fb4b769-e7bf-4d80-8122-7aee6ea8c2d6" />
+- Enviar campo sem nome:
+<img width="1859" height="805" alt="Captura de tela 2025-09-01 162934" src="https://github.com/user-attachments/assets/b6ba8b15-e3df-4f05-becd-508ce4f6fd39" />
+- Nome válido:
+<img width="1775" height="781" alt="Captura de tela 2025-09-01 162927" src="https://github.com/user-attachments/assets/95f066e9-1bfb-4a9b-93e5-09197ab726a2" />
+
 
 ---
 
@@ -75,9 +82,11 @@ Permite escolher uma cor em uma lista suspensa e ver uma caixa mudar de cor.
 
 **Prints:**  
 - Antes da seleção:  
-  ![Print Lista de Cores - Inicial](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/4_lista_cores_inicial.png)
-- Após selecionar "Azul":  
-  ![Print Lista de Cores - Azul](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/4_lista_cores_azul.png)
+<img width="1890" height="839" alt="Captura de tela 2025-09-01 163002" src="https://github.com/user-attachments/assets/0510610a-4bd5-4393-a1e2-f014fd0f2143" />
+- Dropdown aberto:
+<img width="1883" height="848" alt="Captura de tela 2025-09-01 163009" src="https://github.com/user-attachments/assets/f3bac05c-59dc-44c8-85e9-d111f2ea891c" />
+- Após selecionar "Rosa":  
+<img width="1897" height="856" alt="Captura de tela 2025-09-01 163015" src="https://github.com/user-attachments/assets/b761a470-4c57-4779-9f91-a6da799aafc4" />
 
 ---
 
@@ -92,7 +101,8 @@ Demonstra o uso de layouts Column e Row para organizar botões e caixas colorida
 - Não há interação, serve para mostrar organização visual.
 
 **Print:**  
-![Print Layout Básico](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/5_layout_basico.png)
+<img width="1893" height="857" alt="Captura de tela 2025-09-01 163050" src="https://github.com/user-attachments/assets/9de35536-a3df-46e3-9b5d-c08cdcee2785" />
+
 
 ---
 
@@ -109,10 +119,10 @@ Formulário para criar um perfil de usuário com validação.
 - O botão "Limpar" apaga todos os campos e esconde o cartão.
 
 **Prints:**  
-- Formulário preenchido:  
-  ![Print Criador de Perfil - Formulário](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/5a_desafio1_form.png)
+- Formulário:  
+<img width="1885" height="829" alt="Captura de tela 2025-09-01 163131" src="https://github.com/user-attachments/assets/fcd4c63d-5d20-47d4-8cde-940b584bc058" />
 - Perfil criado:  
-  ![Print Criador de Perfil - Cartão](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/5a_desafio1_cartao.png)
+<img width="1879" height="847" alt="Captura de tela 2025-09-01 163146" src="https://github.com/user-attachments/assets/dc02e13a-a285-46db-a758-9f5f48f244c4" />
 
 ---
 
@@ -130,11 +140,11 @@ Contador com botões para incrementar, decrementar, resetar e alterar o valor em
 
 **Prints:**  
 - Valor zero:  
-  ![Print Contador - Zero](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/6_contador_zero.png)
+<img width="1841" height="828" alt="Captura de tela 2025-09-01 163435" src="https://github.com/user-attachments/assets/8afad5ad-0ef2-4367-90cb-bcdc20c27a3c" />
 - Valor positivo:  
-  ![Print Contador - Positivo](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/6_contador_positivo.png)
+<img width="1870" height="815" alt="Captura de tela 2025-09-01 163444" src="https://github.com/user-attachments/assets/0e7cd6e3-cb72-4806-aef8-d2d966277283" />
 - Valor negativo:  
-  ![Print Contador - Negativo](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/6_contador_negativo.png)
+<img width="1906" height="852" alt="Captura de tela 2025-09-02 095701" src="https://github.com/user-attachments/assets/19ac7256-4880-4c84-a6e0-c177fb27d8d0" />
 
 ---
 
@@ -152,11 +162,12 @@ Calculadora com operações básicas, porcentagem e potenciação, além de trat
 
 **Prints:**  
 - Antes do cálculo:  
-  ![Print Calculadora - Inicial](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/7_calculadora_inicial.png)
-- Resultado de uma soma:  
-  ![Print Calculadora - Soma](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/7_calculadora_soma.png)
+<img width="1849" height="811" alt="Captura de tela 2025-09-02 080643" src="https://github.com/user-attachments/assets/6138fdc3-1246-4764-831b-158d6b280469" />
+- Resultado de uma divisão:  
+<img width="1889" height="839" alt="Captura de tela 2025-09-02 080738" src="https://github.com/user-attachments/assets/dbfdcad3-8433-462c-a0e7-acbafe56bc33" />
 - Erro de divisão por zero:  
-  ![Print Calculadora - Erro](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/7_calculadora_erro.png)
+<img width="1878" height="857" alt="Captura de tela 2025-09-02 100031" src="https://github.com/user-attachments/assets/197ba5d1-0ef0-4745-af36-daffcdc769b7" />
+
 
 ---
 
@@ -171,7 +182,12 @@ Permite configurar o estilo de um texto (cor, tamanho, negrito, itálico, sublin
 - O texto de preview muda instantaneamente conforme as opções.
 
 **Print:**  
-![Print Painel de Configuração](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/8_painel_conf.png)
+
+- Configuração Padrão:
+<img width="1858" height="850" alt="Captura de tela 2025-09-02 080856" src="https://github.com/user-attachments/assets/1a9091eb-814b-401e-a76e-07ad5aa350ba" />
+- Configurações alteradas:
+<img width="1881" height="842" alt="Captura de tela 2025-09-02 080908" src="https://github.com/user-attachments/assets/22352199-9b98-4920-bbf1-7cba9ed093f5" />
+
 
 ---
 
@@ -186,7 +202,11 @@ Exibe uma galeria de cards de animais, com filtros por categoria, tamanho, socia
 - O contador mostra quantos animais estão sendo exibidos.
 
 **Print:**  
-![Print Galeria de Animais](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/9_galeria_cards.png)
+- Galeria sem filtros:
+<img width="1887" height="826" alt="Captura de tela 2025-09-02 080945" src="https://github.com/user-attachments/assets/ee8270e1-5b5e-448f-ae3f-feca5ea712c2" />
+- Galeria com filtros:
+<img width="1910" height="852" alt="Captura de tela 2025-09-02 080955" src="https://github.com/user-attachments/assets/8e5d5299-1a0b-4af1-a1d0-672f88ccfb2e" />
+
 
 ---
 
@@ -205,11 +225,9 @@ App com navegação entre várias páginas (Home, Perfil, Configurações, Sobre
 
 **Prints:**  
 - Página Home:  
-  ![Print App Multi-página - Home](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/10_app_multipagina_home.png)
+<img width="1914" height="853" alt="Captura de tela 2025-09-02 081106" src="https://github.com/user-attachments/assets/85aa64f2-07cb-481a-9fac-fd19925890dd" />
 - Página Perfil:  
-  ![Print App Multi-página - Perfil](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/10_app_multipagina_perfil.png)
-- Página Estatísticas:  
-  ![Print App Multi-página - Stats](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/10_app_multipagina_stats.png)
+<img width="1917" height="828" alt="Captura de tela 2025-09-02 081117" src="https://github.com/user-attachments/assets/39c184c7-eef9-472b-ad0b-07fcb82e7161" />
 
 ---
 
@@ -226,18 +244,11 @@ Simula uma loja virtual com produtos de várias categorias, filtros, busca, carr
 - O botão "Finalizar Compra" limpa o carrinho e mostra mensagem de sucesso.
 
 **Prints:**  
-- Produtos e filtros:  
-  ![Print Loja Virtual Mini - Produtos](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/10a_desafio2_produtos.png)
+- Produtos e filtros:
+<img width="1907" height="873" alt="Captura de tela 2025-09-02 081148" src="https://github.com/user-attachments/assets/a9f9238e-4b6f-406f-ba8f-99e4b81dfd8b" />
 - Carrinho com agrupamento:  
-  ![Print Loja Virtual Mini - Carrinho](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/prints/10a_desafio2_carrinho.png)
+<img width="1911" height="858" alt="Captura de tela 2025-09-02 081157" src="https://github.com/user-attachments/assets/09f4c114-1269-459b-ba6b-b005010ba744" />
 
----
-
-> **Observação:**  
-> Se você está visualizando localmente, coloque suas imagens na pasta `prints/` e ajuste os caminhos conforme necessário.  
-> Para exibir imagens no GitHub, substitua `seu-usuario/seu-repo` pelo caminho real do seu repositório.
-
----
 
 ## Como executar
 
@@ -264,3 +275,4 @@ Simula uma loja virtual com produtos de várias categorias, filtros, busca, carr
 
 Essas atividades fazem parte do aprendizado de interfaces gráficas e lógica de programação usando Flet e Python.  
 Sinta-se à vontade para explorar, modificar e criar novas ideias a partir destes exemplos!
+Caso queira visualizar melhor as imagens de solução e as imagens com os exemplos de códigos simples, visualize as pastas dentro do arquivo `Fleet-01-Gustavo`
