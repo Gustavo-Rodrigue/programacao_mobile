@@ -1,11 +1,30 @@
-# Atividades Flet - Programação Mobile
+# 🚀 Atividades Flet - Programação Mobile
 
 Este repositório reúne atividades práticas desenvolvidas em Python com o framework [Flet](https://flet.dev/), explorando conceitos de interface gráfica, lógica e interação.  
 Cada atividade possui um print ilustrativo e uma explicação detalhada do funcionamento e das interações possíveis.
 
 ---
 
-## 1. Primeiro App (`1_primeiro_app.py`)
+## 📑 Índice
+
+- [1. 👋 Primeiro App](#1-👋-primeiro-app-1_primeiro_apppy)
+- [2. 🟢 Botão Simples](#2-🟢-botão-simples-2_botao_simplespy)
+- [3. 📝 Campo de Texto](#3-📝-campo-de-texto-3_campo_textopy)
+- [4. 🎨 Lista de Cores](#4-🎨-lista-de-cores-4_lista_corespy)
+- [5. 🧩 Layout Básico](#5-🧩-layout-básico-5_layout_basicopy)
+- [5a. 🧞‍♂️ Desafio 1 - Criador de Perfil](#5a-🧞‍♂️-desafio-1---criador-de-perfil-5a_desafio1py)
+- [6. 🔢 Contador Completo](#6-🔢-contador-completo-6_contadorpy)
+- [7. 🧮 Calculadora Simples](#7-🧮-calculadora-simples-7_calculadorapy)
+- [8. ⚙️ Painel de Configuração](#8-⚙️-painel-de-configuração-8_painel_confpy)
+- [9. 🦁 Galeria de Animais com Filtros](#9-🦁-galeria-de-animais-com-filtros-9_galeria_cardspy)
+- [10. 📱 App Multi-página](#10-📱-app-multi-página-10_app_multipaginapy)
+- [10a. 🛒 Desafio 2 - Loja Virtual Mini](#10a-🛒-desafio-2---loja-virtual-mini-10a_desafio2py)
+- [Como executar](#como-executar)
+- [Sobre](#sobre)
+
+---
+
+## 1. 👋 Primeiro App (`1_primeiro_app.py`)
 
 **Descrição:**  
 Página inicial que exibe uma mensagem de boas-vindas centralizada.  
@@ -19,7 +38,7 @@ Demonstra como configurar título, alinhamento e adicionar textos com diferentes
 
 ---
 
-## 2. Botão Simples (`2_botao_simples.py`)
+## 2. 🟢 Botão Simples (`2_botao_simples.py`)
 
 **Descrição:**  
 Página com dois botões que mudam o texto exibido ao serem clicados.
@@ -31,7 +50,7 @@ Página com dois botões que mudam o texto exibido ao serem clicados.
   `"Se clicar no outro tem surpresa 😲"`
 - Ao clicar no segundo botão, a mensagem muda para:  
   `"EI! Por que você clicou? 😲"`
-- O texto muda de cor para verde ao clicar.
+- O texto muda de cor ao clicar.
 
 **Prints:**  
 - Antes do clique:  
@@ -43,7 +62,7 @@ Página com dois botões que mudam o texto exibido ao serem clicados.
 
 ---
 
-## 3. Campo de Texto (`3_campo_texto.py`)
+## 3. 📝 Campo de Texto (`3_campo_texto.py`)
 
 **Descrição:**  
 Permite ao usuário digitar seu nome e receber uma resposta personalizada.
@@ -70,7 +89,7 @@ Permite ao usuário digitar seu nome e receber uma resposta personalizada.
 
 ---
 
-## 4. Lista de Cores (`4_lista_cores.py`)
+## 4. 🎨 Lista de Cores (`4_lista_cores.py`)
 
 **Descrição:**  
 Permite escolher uma cor em uma lista suspensa e ver uma caixa mudar de cor.
@@ -90,7 +109,7 @@ Permite escolher uma cor em uma lista suspensa e ver uma caixa mudar de cor.
 
 ---
 
-## 5. Layout Básico (`5_layout_basico.py`)
+## 5. 🧩 Layout Básico (`5_layout_basico.py`)
 
 **Descrição:**  
 Demonstra o uso de layouts Column e Row para organizar botões e caixas coloridas.
@@ -106,7 +125,7 @@ Demonstra o uso de layouts Column e Row para organizar botões e caixas colorida
 
 ---
 
-## 5a. Desafio 1 - Criador de Perfil (`5a_desafio1.py`)
+## 5a. 🧞‍♂️ Desafio 1 - Criador de Perfil (`5a_desafio1.py`)
 
 **Descrição:**  
 Formulário para criar um perfil de usuário com validação.
@@ -126,7 +145,7 @@ Formulário para criar um perfil de usuário com validação.
 
 ---
 
-## 6. Contador Completo (`6_contador.py`)
+## 6. 🔢 Contador Completo (`6_contador.py`)
 
 **Descrição:**  
 Contador com botões para incrementar, decrementar, resetar e alterar o valor em passos de 1 ou 5.
@@ -148,7 +167,7 @@ Contador com botões para incrementar, decrementar, resetar e alterar o valor em
 
 ---
 
-## 7. Calculadora Simples (`7_calculadora.py`)
+## 7. 🧮 Calculadora Simples (`7_calculadora.py`)
 
 **Descrição:**  
 Calculadora com operações básicas, porcentagem e potenciação, além de tratamento de erros.
@@ -171,7 +190,7 @@ Calculadora com operações básicas, porcentagem e potenciação, além de trat
 
 ---
 
-## 8. Painel de Configuração (`8_painel_conf.py`)
+## 8. ⚙️ Painel de Configuração (`8_painel_conf.py`)
 
 **Descrição:**  
 Permite configurar o estilo de um texto (cor, tamanho, negrito, itálico, sublinhado, riscado) e o fundo, com preview em tempo real.
@@ -191,7 +210,7 @@ Permite configurar o estilo de um texto (cor, tamanho, negrito, itálico, sublin
 
 ---
 
-## 9. Galeria de Animais com Filtros (`9_galeria_cards.py`)
+## 9. 🦁 Galeria de Animais com Filtros (`9_galeria_cards.py`)
 
 **Descrição:**  
 Exibe uma galeria de cards de animais, com filtros por categoria, tamanho, sociabilidade e busca por nome.
@@ -210,7 +229,7 @@ Exibe uma galeria de cards de animais, com filtros por categoria, tamanho, socia
 
 ---
 
-## 10. App Multi-página (`10_app_multipagina.py`)
+## 10. 📱 App Multi-página (`10_app_multipagina.py`)
 
 **Descrição:**  
 App com navegação entre várias páginas (Home, Perfil, Configurações, Sobre, Estatísticas), barra de navegação colorida e gerenciamento de estado do usuário.
@@ -231,7 +250,7 @@ App com navegação entre várias páginas (Home, Perfil, Configurações, Sobre
 
 ---
 
-## 10a. Desafio 2 - Loja Virtual Mini (`10a_desafio2.py`)
+## 10a. 🛒 Desafio 2 - Loja Virtual Mini (`10a_desafio2.py`)
 
 **Descrição:**  
 Simula uma loja virtual com produtos de várias categorias, filtros, busca, carrinho de compras com agrupamento de itens e finalização de compra.
