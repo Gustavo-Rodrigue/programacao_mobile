@@ -1,6 +1,8 @@
 # 🚀 Atividades Flet - Programação Mobile
 
+
 Este repositório reúne atividades práticas desenvolvidas em Python com o framework [Flet](https://flet.dev/), explorando conceitos de interface gráfica, lógica e interação.  
+
 Cada atividade possui um print ilustrativo e uma explicação detalhada do funcionamento e das interações possíveis.
 
 ---
